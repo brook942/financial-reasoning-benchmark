@@ -1,0 +1,181 @@
+q_id,model,model_version,date,batch,answer_line,extracted_answer,assumption_stated,calculation_shown
+Q001,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,730,730,0,1
+Q002,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,"1,820","1,820",0,1
+Q003,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,775,775,0,1
+Q004,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,960,960,0,1
+Q005,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,"1,125","1,125",0,1
+Q006,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,3.00,3.00,0,1
+Q007,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,700,700,0,1
+Q008,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,"1,920","1,920",0,1
+Q009,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,600,600,0,1
+Q010,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,1,"3,900","3,900",0,1
+Q011,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,510,510,0,1
+Q012,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,120,120,0,1
+Q013,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,25.0%,25.0%,0,1
+Q014,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,7.5%,7.5%,0,1
+Q015,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,34.0%,34.0%,0,1
+Q016,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,850,850,0,1
+Q017,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,20.0%,20.0%,0,1
+Q018,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,12.0%,12.0%,0,1
+Q019,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,24.0%,24.0%,0,1
+Q020,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,2,20.0%,20.0%,0,1
+Q021,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,"30,000 units","30,000 units",0,1
+Q022,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,18.2%,18.2%,0,1
+Q023,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,10.2%,10.2%,1,1
+Q024,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,"$188,600","$188,600",0,1
+Q025,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,$360 million,$360 million,0,1
+Q026,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,$320 million,$320 million,1,1
+Q027,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,$50 million,$50 million,0,1
+Q028,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,$310 million,$310 million,1,1
+Q029,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,$475 million,$475 million,0,1
+Q030,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,3,$460 million,$460 million,0,1
+Q031,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,67,67,1,1
+Q032,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,43.3,43.3,1,1
+Q033,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,15.0%,15.0%,1,1
+Q034,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,260,260,1,1
+Q035,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,480,480,1,1
+Q036,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,-10,-10,1,1
+Q037,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,1.80,1.80,1,1
+Q038,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,0.60,0.60,1,1
+Q039,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,7.0,7.0,1,1
+Q040,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,4,0.80,0.80,1,1
+Q041,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,8.4,8.4,1,1
+Q042,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,2.00,2.00,1,1
+Q043,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,2.00,2.00,0,1
+Q044,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,15.0,15.0,0,1
+Q045,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,10.5%,10.5%,0,1
+Q046,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,30.0,30.0,1,1
+Q047,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,33.75%,33.75%,0,1
+Q048,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,7.78,7.78,1,1
+Q049,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,793.83,793.83,1,1
+Q050,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,5,6691.13,6691.13,1,1
+Q051,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,70.00,70.00,0,1
+Q052,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,2500,2500,0,1
+Q053,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,125.4,125.4,0,1
+Q054,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,9.25%,9.25%,0,1
+Q055,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,10.6%,10.6%,0,1
+Q056,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,2365.4,2365.4,0,1
+Q057,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,10.0%,10.0%,0,1
+Q058,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,1598.6,1598.6,0,1
+Q059,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,117.4,117.4,0,1
+Q060,DeepSeek V4.1,DeepSeek V4.1; DeepThink on; web search/memory not recorded,2026-11-21,6,15.00,15.00,0,1
+Q001,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,730,730,1,1
+Q002,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,"1,820","1,820",0,1
+Q003,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,775,775,1,1
+Q004,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,960,960,1,1
+Q005,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,"1,125","1,125",1,1
+Q006,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,3.00,3.00,1,1
+Q007,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,700,700,1,1
+Q008,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,"1,920","1,920",1,1
+Q009,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,600,600,1,1
+Q010,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,1,"3,900","3,900",1,1
+Q011,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,$510 million,$510 million,1,1
+Q012,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,$120 thousand,$120 thousand,1,1
+Q013,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,25.0%,25.0%,1,1
+Q014,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,7.5%,7.5%,1,1
+Q015,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,34.0%,34.0%,1,1
+Q016,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,$850 million,$850 million,1,1
+Q017,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,20.0%,20.0%,1,1
+Q018,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,12.0%,12.0%,1,1
+Q019,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,24.0%,24.0%,1,1
+Q020,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,2,20.0%,20.0%,1,1
+Q021,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,"30,000 units","30,000 units",1,1
+Q022,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,18.2%,18.2%,1,1
+Q023,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,10.2%,10.2%,1,1
+Q024,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,"$188,600","$188,600",1,1
+Q025,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,$360 million,$360 million,1,1
+Q026,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,$320 million,$320 million,1,1
+Q027,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,$50 million,$50 million,1,1
+Q028,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,$310 million,$310 million,1,1
+Q029,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,$475 million,$475 million,1,1
+Q030,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,3,$460 million,$460 million,1,1
+Q031,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,67 days,67 days,1,1
+Q032,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,43.3 days,43.3 days,1,1
+Q033,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,15.0%,15.0%,1,1
+Q034,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,$260 million,$260 million,1,1
+Q035,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,$480 million,$480 million,1,1
+Q036,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,-$10 million,-$10 million,1,1
+Q037,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,1.80,1.80,1,1
+Q038,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,0.60,0.60,1,1
+Q039,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,7.0,7.0,1,1
+Q040,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,4,0.80,0.80,1,1
+Q041,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,8.4,8.4,1,1
+Q042,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,2.00,2.00,1,1
+Q043,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,2.00,2.00,1,1
+Q044,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,15.0,15.0,1,1
+Q045,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,10.5%,10.5%,1,1
+Q046,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,30.0 days,30.0 days,1,1
+Q047,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,33.75%,33.75%,1,1
+Q048,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,7.78,7.78,1,1
+Q049,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,$793.83,$793.83,1,1
+Q050,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,5,"$6,691.13","$6,691.13",1,1
+Q051,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,$70.00,$70.00,1,1
+Q052,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,"$2,500 million","$2,500 million",1,1
+Q053,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,$125.4 million,$125.4 million,1,1
+Q054,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,9.25%,9.25%,1,1
+Q055,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,10.6%,10.6%,1,1
+Q056,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,"$2,365.4 million","$2,365.4 million",1,1
+Q057,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,10.0%,10.0%,1,1
+Q058,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,"$1,598.6 million","$1,598.6 million",1,1
+Q059,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,$117.4 million,$117.4 million,1,1
+Q060,Gemini 4 Hydrogen,Gemini 4 Hydrogen; Google AI Studio; thinking level high; code execution off,2026-11-20,6,$15.00,$15.00,1,1
+Q001,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,$730 million,$730 million,0,1
+Q002,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,"$1,820 million","$1,820 million",0,1
+Q003,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,$775 million,$775 million,0,1
+Q004,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,$960 million,$960 million,1,1
+Q005,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,"$1,125 million","$1,125 million",0,1
+Q006,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,$3.00 per share,$3.00 per share,0,1
+Q007,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,$700 million,$700 million,0,1
+Q008,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,"$1,920 million","$1,920 million",1,1
+Q009,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,$600 thousand,$600 thousand,1,1
+Q010,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,1,"$3,900","$3,900",0,1
+Q011,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,$510 million,$510 million,0,1
+Q012,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,$120 thousand,$120 thousand,1,1
+Q013,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,25.0%,25.0%,0,1
+Q014,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,7.5%,7.5%,0,1
+Q015,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,34.0%,34.0%,0,1
+Q016,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,$850 million,$850 million,0,1
+Q017,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,20.0%,20.0%,0,1
+Q018,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,12.0%,12.0%,0,1
+Q019,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,24.0%,24.0%,0,1
+Q020,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,2,20.0%,20.0%,1,1
+Q021,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,"30,000 units","30,000 units",0,1
+Q022,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,18.2%,18.2%,0,1
+Q023,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,10.2%,10.2%,0,1
+Q024,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,"$188,600","$188,600",0,1
+Q025,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,$360 million,$360 million,0,1
+Q026,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,$320 million,$320 million,1,1
+Q027,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,$50 million,$50 million,0,1
+Q028,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,$310 million,$310 million,1,1
+Q029,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,$475 million,$475 million,0,1
+Q030,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,3,$460 million,$460 million,0,1
+Q031,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,67 days,67 days,1,1
+Q032,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,43.3 days,43.3 days,0,1
+Q033,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,15.0%,15.0%,0,1
+Q034,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,$260 million,$260 million,1,1
+Q035,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,$480 million,$480 million,0,1
+Q036,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,−$10 million,−$10 million,0,1
+Q037,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,1.80,1.80,0,1
+Q038,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,0.60,0.60,0,1
+Q039,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,7.0 times,7.0 times,0,1
+Q040,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,4,0.80,0.80,0,1
+Q041,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,8.4 times,8.4 times,1,1
+Q042,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,2.00 times,2.00 times,1,1
+Q043,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,2.00 times,2.00 times,0,1
+Q044,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,15.0 times,15.0 times,0,1
+Q045,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,10.5%,10.5%,0,1
+Q046,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,30.0 days,30.0 days,1,1
+Q047,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,33.75%,33.75%,0,1
+Q048,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,7.78 times,7.78 times,0,1
+Q049,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,$793.83,$793.83,1,1
+Q050,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,5,"$6,691.13","$6,691.13",1,1
+Q051,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,$70.00 per share,$70.00 per share,1,1
+Q052,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,"$2,500 million","$2,500 million",1,1
+Q053,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,$125.2 million,$125.2 million,0,1
+Q054,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,9.25%,9.25%,0,1
+Q055,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,10.6%,10.6%,0,1
+Q056,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,"$2,365.4 million","$2,365.4 million",1,1
+Q057,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,10.0%,10.0%,0,1
+Q058,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,"$1,599.6 million","$1,599.6 million",0,1
+Q059,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,$117.1 million,$117.1 million,0,1
+Q060,GPT-6,GPT-6; Instant mode; no Sol/Luna label shown; web search/memory not recorded,2026-11-21,6,$15.00 per share,$15.00 per share,1,1
